@@ -4,4 +4,4 @@ This app will use to calculate Simple Interest
 
 ## Getting Started
 
-![Alt text](/si_home.png?raw=true "Slide One")
+![Alt text](/si_home.PNG?raw=true "Slide One")
